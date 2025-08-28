@@ -12,7 +12,7 @@ title: Resources
     <p>View all course events, deadlines, office hours, and lecture times in the calendar below.</p>
     
     <div class="calendar-container">
-      <iframe src="https://calendar.google.com/calendar/embed?src=c_d9a800f7c82269604dae0b3cedefca45a288f64c5240ec23d47e23a0bd21b75a%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+      <iframe src="https://calendar.google.com/calendar/embed?src=c_f34630751e21b14e9a439bd0dc1baf21456c6808e8f87edff93ea1d09c866c97%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
     </div>
     
     <div class="calendar-instructions">
