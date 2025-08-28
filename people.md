@@ -52,7 +52,7 @@ title: People
     <div class="staff-card">
       <img src="{{ '/assets/images/pauline.jpeg' | relative_url }}" alt="Pauline Nyaboe" class="circle">
       <p class="staff-name">Pauline Nyaboe</p>
-      <p class="staff-info"></p>
+      <p class="staff-info">MSEAI</p>
       <a href="mailto:pnyaboe@andrew.cmu.edu" class="staff-email">pnyaboe@andrew.cmu.edu</a>
     </div>
   </div>

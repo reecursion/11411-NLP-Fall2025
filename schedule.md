@@ -187,7 +187,7 @@ title: Schedule
       <tr class="alt-row">
         <td>Nov 13</td>
         <td>Information Extraction and Coreference</td>
-        <td>HW4: Named Entity Recognition</td>
+        <td>HW4: TBD</td>
         <td>HW3</td>
       </tr>
       <!-- Week 13 -->
