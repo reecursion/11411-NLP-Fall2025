@@ -21,11 +21,11 @@ title: Syllabus
       </tr>
       <tr>
         <td><strong>Meeting Times:</strong></td>
-        <td>Tuesday, Thursday</td>
+        <td>Tuesday, Thursday; 2:00 - 3:20 PM EST</td>
       </tr>
       <tr>
         <td><strong>Location:</strong></td>
-        <td>HOA</td>
+        <td>HOA, Room 160</td>
       </tr>
       <tr>
         <td><strong>Instructors:</strong></td>

@@ -18,13 +18,6 @@ title: Resources
     <div class="calendar-instructions">
       <h3>Using the Calendar</h3>
       <p>Click on any event to see details. You can subscribe to this calendar by clicking the "+" button in the bottom-right corner of the calendar.</p>
-      <p>The calendar is color-coded as follows:</p>
-      <ul>
-        <li><span class="calendar-key lecture-key"></span> <strong>Lectures</strong></li>
-        <li><span class="calendar-key assignment-key"></span> <strong>Assignment Deadlines</strong></li>
-        <li><span class="calendar-key office-hours-key"></span> <strong>Office Hours</strong></li>
-        <li><span class="calendar-key exam-key"></span> <strong>Exams</strong></li>
-      </ul>
     </div>
   </div>
 
