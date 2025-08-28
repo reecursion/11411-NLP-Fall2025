@@ -662,3 +662,75 @@ pre code {
     text-align: center;
   }
 }
+
+/* Add this to your assets/css/main.css file */
+
+/* Dropdown Navigation Styles */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-toggle::after {
+  content: " ▼";
+  font-size: 0.8em;
+  margin-left: 0.5rem;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: var(--primary-black);
+  min-width: 180px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+  z-index: 1000;
+  border-radius: 4px;
+  top: 100%;
+  right: 0;
+}
+
+.dropdown-content a {
+  color: white !important;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  transition: background-color 0.3s;
+  border-radius: 0;
+  margin: 0;
+  font-weight: normal;
+}
+
+.dropdown-content a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white !important;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .nav-link {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Mobile responsive dropdown */
+@media (max-width: 992px) {
+  .dropdown-content {
+    position: static;
+    display: none;
+    box-shadow: none;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-top: 0.5rem;
+    border-radius: 4px;
+  }
+  
+  .dropdown:hover .dropdown-content,
+  .dropdown.active .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown-content a {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+}
