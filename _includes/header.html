@@ -1,0 +1,24 @@
+<header>
+  <div class="navbar">
+    <div class="container">
+      <div class="navbar-content">
+        <div class="logo-section">
+          <img src="{{ site.baseurl }}/assets/images/lti-logo.png" alt="LTI Logo" class="navbar-logo">
+          <a href="{{ '/' | relative_url }}" class="site-title">
+            <h2>{{ site.title }}</h2>
+          </a>
+        </div>
+        {% include navigation.html %}
+      </div>
+    </div>
+  </div>
+  {% if page.url == '/' %}
+  <div class="hero">
+    <div class="container">
+      <h1 class="hero-title">11-411/11-611 Natural Language Processing</h1>
+      <p class="hero-subtitle">Language Technologies Institute | School of Computer Science | Carnegie Mellon University</p>
+      <p class="hero-subtitle"><i>Spring 2025</i></p>
+    </div>
+  </div>
+  {% endif %}
+</header>

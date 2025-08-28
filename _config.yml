@@ -1,0 +1,38 @@
+title: NLP - Fall 2025
+description: >-
+  Course website for 11-411/11-611 Natural Language Processing at Carnegie Mellon University - Fall 2025
+baseurl: "/11411-NLP-Fall2025"
+url: "https://reecursion.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Collections
+collections:
+  assignments:
+    output: true
+    permalink: /:collection/:path/
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "page"

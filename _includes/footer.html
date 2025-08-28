@@ -1,0 +1,33 @@
+<footer>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>{{ site.title }}</h3>
+          <p>11-411/11-611 Natural Language Processing</p>
+          <p>Carnegie Mellon University</p>
+        </div>
+        
+        <div class="footer-section">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="{{ '/syllabus' | relative_url }}">Syllabus</a></li>
+            <li><a href="{{ '/assignments' | relative_url }}">Assignments</a></li>
+            <li><a href="https://canvas.cmu.edu/courses/44875">Canvas</a></li>
+            <li><a href="https://piazza.com/class/m4ukx3grk624td">Piazza</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-section">
+          <h3>Contact</h3>
+          <p>School of Computer Science</p>
+          <p>Carnegie Mellon University</p>
+          <p>5000 Forbes Avenue</p>
+          <p>Pittsburgh, PA 15213</p>
+        </div>
+      </div>
+      
+      <div class="copyright">
+        <p>&copy; {{ site.time | date: '%Y' }} Carnegie Mellon University. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
