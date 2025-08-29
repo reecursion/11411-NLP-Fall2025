@@ -82,7 +82,7 @@ title: Resources
     
     <div class="resource-item">
       <h3><a href="https://medium.com/@gganeshl/training-deep-learning-models-without-melting-your-laptop-a-guide-to-accessing-gpus-3fd3be0a40c3" target="_blank">Guide: Training Deep Learning Models without melting your laptop</a></h3>
-      <h2><a href="https://www.youtube.com/watch?v=6g189ksheBk" target="_blank">Video Tutorial</a></h2>
+      <h4><a href="https://www.youtube.com/watch?v=6g189ksheBk" target="_blank">[Video Tutorial]</a></h4>
       <p>This guide walks you through using Google Colab and setting up AWS EC2 instances with GPUs.</p>
     </div>
   </div>
