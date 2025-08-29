@@ -235,15 +235,4 @@ title: Schedule
       </tbody>
     </table>
   </div>
-  
-  <div class="schedule-resources">
-    <h2>Additional Resources</h2>
-    <p>For more detailed information about each lecture, please check the corresponding links in the schedule above or visit the Resources page.</p>
-    
-    <div class="schedule-links">
-      <a href="{{ '/syllabus' | relative_url }}" class="btn">View Syllabus</a>
-      <a href="{{ '/assignments' | relative_url }}" class="btn">View Assignments</a>
-      <a href="{{ '/resources' | relative_url }}" class="btn">View Resources</a>
-    </div>
-  </div>
 </div>
