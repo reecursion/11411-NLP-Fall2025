@@ -20,7 +20,7 @@ title: Syllabus
         <td>Fall 2025</td>
       </tr>
       <tr>
-        <td><strong>Meeting Times:</strong></td>
+        <td><strong>Class Times:</strong></td>
         <td>Tuesday, Thursday; 2:00 - 3:20 PM EST</td>
       </tr>
       <tr>

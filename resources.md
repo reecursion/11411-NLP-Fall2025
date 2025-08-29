@@ -55,10 +55,10 @@ title: Resources
     
     <h3>Course Platforms</h3>
     <ul>
-      <li><a href="https://canvas.cmu.edu/courses/44875" target="_blank">Canvas</a> - For assignment submissions and grades</li>
-      <li><a href="https://piazza.com/class/m4ukx3grk624td" target="_blank">Piazza</a> - For course discussions and announcements</li>
-      <li><a href="https://canvas.cmu.edu/courses/44875/external_tools/269" target="_blank">Panopto</a> - For class recordings</li>
-      <li><a href="https://forms.gle/wpiC9cu9nVj5sHfQ8" target="_blank">Video Access Request Form</a> - To request for access to any of the class recordings, fill out this form</li>
+      <li><a href="https://canvas.cmu.edu/courses/47358" target="_blank">Canvas</a> - For assignment submissions and grades</li>
+      <li><a href="https://piazza.com/class/me7idw5ke0p1jw" target="_blank">Piazza</a> - For course discussions and announcements</li>
+      <li><a href="#" target="_blank">Panopto</a> - For class recordings</li>
+      <li><a href="https://forms.gle/mV2UAQgJKbuUBujLA" target="_blank">Video Access Request Form</a> - To request for access to any of the class recordings, fill out this form</li>
     </ul>
   </div>
   
@@ -82,6 +82,7 @@ title: Resources
     
     <div class="resource-item">
       <h3><a href="https://medium.com/@gganeshl/training-deep-learning-models-without-melting-your-laptop-a-guide-to-accessing-gpus-3fd3be0a40c3" target="_blank">Guide: Training Deep Learning Models without melting your laptop</a></h3>
+      <h2><a href="https://www.youtube.com/watch?v=6g189ksheBk" target="_blank">Video Tutorial</a></h2>
       <p>This guide walks you through using Google Colab and setting up AWS EC2 instances with GPUs.</p>
     </div>
   </div>
