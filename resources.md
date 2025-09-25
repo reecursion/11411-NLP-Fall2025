@@ -28,21 +28,21 @@ title: Resources
     <div class="office-hours">
       <h3>Instructor Office Hours</h3>
       <ul>
-        <li><strong>Eric Nyberg:</strong> Gates Hall 5509</li>
+        <li><strong>Eric Nyberg:</strong> Gates Hall 5719 or <a href="https://cmu.zoom.us/my/en09room?pwd=YTZtT3MyS3R5TEpHZnhCS0lmeVBRQT09">Zoom</a> </li>
       </ul>
       
       <h3>TA Office Hours</h3>
       <ul>
-        <li><strong>Gayathri Ganesh Lakshmy:</strong> Tuesdays 2:30 PM - 3:30 PM, Fridays 9:00 AM - 10:00 AM on <a href="https://cmu.zoom.us/j/97019354430?pwd=Y6KbRYUiadg4UULbCnqLN3BCpF5lyg.1">Zoom</a></li>
-        <li><strong>Dhruv Gupta:</strong> Mondays 3:45 PM - 4:45 PM, Tuesdays 10:00 AM - 11:00 AM on <a href="https://cmu.zoom.us/j/95570783745?pwd=6DZIPUy9CwCoT477ZyL3emUsMsTN9q.1">Zoom</a> </li>
-        <li><strong>Manav Kapadnis:</strong> Tuesdays 9:00 AM - 10:00 AM, Thursdays 9:00 AM - 10:00 AM on <a href="https://cmu.zoom.us/j/95558639117?pwd=CCRZkhkmbIDLoyHqnkcaxvDgBtyjXq.1">Zoom</a></li>
-        <li><strong>Chin-Jou Li:</strong> Wednesdays 2:30 PM - 3:30 PM, Fridays 1:30 PM - 2:30 PM either in GHC 5th floor LTI shared space/<a href="https://cmu.zoom.us/j/91676874111">Zoom</a> </li>
+        <li><strong>Gayathri Ganesh Lakshmy:</strong> Monday/Wednesday 11 AM - 12 PM EST on <a href="https://cmu.zoom.us/j/91035149753?pwd=5KMg2NgaHcDaQv4Gduf1kTA3fJhEta.1">Zoom</a></li>
+        <li><strong>Dhruv Gupta:</strong> Mondays/Wednesday 5-6 PM EST on <a href="https://cmu.zoom.us/j/95570783745">Zoom</a> </li>
+        <li><strong>Manav Kapadnis:</strong> Tuesday/Thursday 9-10 AM EST on <a href="https://cmu.zoom.us/j/95558639117?pwd=CCRZkhkmbIDLoyHqnkcaxvDgBtyjXq.1">Zoom</a></li>
+        <li><strong>Chin-Jou Li:</strong> Friday 10-11 AM / 5-6 PM EST <a href="https://cmu.zoom.us/j/97754626587">Zoom</a> </li>
+        <li><strong>Pauline Nyaboe:</strong> Mondays/ Wednesday 7-8 PM CAT (13:00-14:00 EST) either in Neo Cafe/ <a href="https://cmu.zoom.us/j/8269208134">Zoom</a> </li>
       </ul>
     </div>
     
     <div class="support-info">
       <h3>Additional Support</h3>
-      <p>For additional help, please post your questions on Piazza or attend the weekly recitation sessions on Tuesdays from 5:00-6:00 PM in Gates Hall 4401.</p>
       <p>For private concerns or accommodations, please email the instructors directly.</p>
     </div>
   </div>
@@ -58,7 +58,7 @@ title: Resources
       <li><a href="https://canvas.cmu.edu/courses/47358" target="_blank">Canvas</a> - For assignment submissions and grades</li>
       <li><a href="https://piazza.com/class/me7idw5ke0p1jw" target="_blank">Piazza</a> - For course discussions and announcements</li>
       <li><a href="#" target="_blank">Panopto</a> - For class recordings</li>
-      <li><a href="https://forms.gle/mV2UAQgJKbuUBujLA" target="_blank">Video Access Request Form</a> - To request for access to any of the class recordings, fill out this form</li>
+      <li><a href="https://forms.gle/LTzHzqbi7uihpwAL6" target="_blank">Video Access Request Form</a> - To request for access to any of the class recordings, fill out this form</li>
     </ul>
   </div>
   

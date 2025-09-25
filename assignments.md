@@ -51,8 +51,8 @@ title: Assignments
       </ol>
 
       <div class="assignment-resources">
-        <a href="#" class="btn">Coming Soon</a>
-        <!-- <a href="https://canvas.cmu.edu/courses/NEW_FALL_COURSE_ID/assignments/ASSIGNMENT_ID" class="btn">Canvas</a> -->
+        <!-- <a href="#" class="btn">Coming Soon</a> -->
+        <a href="https://canvas.cmu.edu/courses/47358/assignments/890004" class="btn">Canvas</a>
       </div>
     </div>
   </div>
